@@ -8,4 +8,6 @@
 
 <h3>Datasets Used: </h3>
 
+***[City of Pittsburgh Facilities](https://data.wprdc.org/dataset/city-of-pittsburgh-facilities)***: Dataset of public city facilities from the Operations Management System for the Department of Public Works in Pittsburgh. Includes facility type, name, address, neighborhood, and associated public works division. 
+
 <h3> [one sentence overview of project] </h3>
