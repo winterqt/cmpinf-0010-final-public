@@ -2,7 +2,7 @@
 
 <h3>Group Members: </h3>
 
-- ***Anthony Cardello***: [put your email here]
+- ***Anthony Cardello***: [ajc434@pitt.edu]
 - ***Winter [removed for publication]***: [removed for publication]
 - ***Madelyn Dayrit***: med255@pitt.edu
 
