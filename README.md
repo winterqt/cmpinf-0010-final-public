@@ -1,4 +1,4 @@
-<h1>Team Name: [name]</h1>
+<h1>Team Name: Fun Team </h1>
 
 <h3>Group Members: </h3>
 
